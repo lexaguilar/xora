@@ -1,6 +1,6 @@
 {
     "name": "xora",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Utilidades para frontend",
     "main": "index.js",
     "scripts": {
@@ -10,6 +10,7 @@
         "type": "git",
         "url": "git+https://github.com/lexaguilar/xora.git"
     },
+    "type": "module",
     "keywords": [
         "https",
         "buttons"
