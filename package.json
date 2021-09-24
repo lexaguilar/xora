@@ -1,23 +1,23 @@
 {
-  "name": "xora",
-  "version": "1.0.0",
-  "description": "Utilidades para frontend",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/lexaguilar/xora.git"
-  },
-  "keywords": [
-    "https",
-    "buttons"
-  ],
-  "author": "lex aguilar\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001baguilar",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/lexaguilar/xora/issues"
-  },
-  "homepage": "https://github.com/lexaguilar/xora#readme"
+    "name": "xora",
+    "version": "1.0.1",
+    "description": "Utilidades para frontend",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lexaguilar/xora.git"
+    },
+    "keywords": [
+        "https",
+        "buttons"
+    ],
+    "author": "lex aguilar\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001baguilar",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/lexaguilar/xora/issues"
+    },
+    "homepage": "https://github.com/lexaguilar/xora#readme"
 }
